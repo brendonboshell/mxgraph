@@ -1,0 +1,8 @@
+{
+  "name": "mxgraph",
+  "version": "3.7.1",
+  "devDependencies": {
+    "strip-comments": "^0.4.4",
+    "toposort": "^1.0.3"
+  }
+}
