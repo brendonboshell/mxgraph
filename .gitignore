@@ -1,1 +1,4 @@
+node_modules
+javascript/**/dist
+.jshintrc
 devscripts/results.txt
